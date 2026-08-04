@@ -25,7 +25,6 @@ export const projects: Project[] = [
     services: ["Construction", "Structural Works", "Finishing"],
     image: "/projects/Abdulaziz Ghanem Group/cover.jpg",
     gallery: [
-      "/projects/Abdulaziz Ghanem Group/01.jpg",
       "/projects/Abdulaziz Ghanem Group/02.jpg",
       "/projects/Abdulaziz Ghanem Group/03.jpg",
       "/projects/Abdulaziz Ghanem Group/04.jpg",
@@ -44,7 +43,10 @@ export const projects: Project[] = [
     scope: "Construction",
     services: ["Construction", "Concrete", "Finishing"],
     image: "/projects/Abu Amjad Commercial Group Building/cover.jpg",
-    gallery: [],
+    gallery: [
+      "/projects/Abu Amjad Commercial Group Building/02.jpg",
+      "/projects/Abu Amjad Commercial Group Building/11.jpg",
+    ],
   },
   {
     slug: "abu-ziad-trading-building",
@@ -57,7 +59,13 @@ export const projects: Project[] = [
     scope: "Construction",
     services: ["Construction"],
     image: "/projects/Abu Ziad Trading Building/cover.jpg",
-    gallery: [],
+    gallery: [
+      "/projects/Abu Ziad Trading Building/06.jpg",
+      "/projects/Abu Ziad Trading Building/07.jpg",
+      "/projects/Abu Ziad Trading Building/08.jpg",
+      "/projects/Abu Ziad Trading Building/11.jpg",
+      "/projects/Abu Ziad Trading Building/12.jpg",
+    ],
   },
   {
     slug: "bin-ghailan-tower",
@@ -70,7 +78,12 @@ export const projects: Project[] = [
     scope: "Construction",
     services: ["Construction"],
     image: "/projects/Bin Ghailan Tower/cover.jpg",
-    gallery: [],
+    gallery: [
+      "/projects/Bin Ghailan Tower/07.jpg",
+      "/projects/Bin Ghailan Tower/10.jpg",
+      "/projects/Bin Ghailan Tower/11.jpg",
+      "/projects/Bin Ghailan Tower/12.jpg",
+    ],
   },
   {
     slug: "commercial-administrative-building",
@@ -83,7 +96,14 @@ export const projects: Project[] = [
     scope: "Construction",
     services: ["Construction"],
     image: "/projects/Commercial & Administrative Building-Raid/cover.jpg",
-    gallery: [],
+    gallery: [
+      "/projects/Commercial & Administrative Building-Raid/03.jpg",
+      "/projects/Commercial & Administrative Building-Raid/04.jpg",
+      "/projects/Commercial & Administrative Building-Raid/05.jpg",
+      "/projects/Commercial & Administrative Building-Raid/11.jpg",
+      "/projects/Commercial & Administrative Building-Raid/12.jpg",
+      "/projects/Commercial & Administrative Building-Raid/13.jpg",
+    ],
   },
 ];
 
