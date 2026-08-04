@@ -1,0 +1,10 @@
+node_modules
+/.next
+/out
+/dist
+/.turbo
+*.zip
+*.heic
+*.mp4
+*.mov
+.DS_Store

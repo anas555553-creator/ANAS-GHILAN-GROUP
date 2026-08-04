@@ -1,0 +1,38 @@
+[
+  {
+    "id": "public-infrastructure",
+    "titleAr": "البنية التحتية العامة",
+    "titleEn": "Public Infrastructure",
+    "subtitleAr": "مشاريع تشغيلية متقدمة",
+    "subtitleEn": "Advanced operational projects",
+    "descriptionAr": "نهتم بتطوير البنية التحتية الأساسية التي تدعم الاستقرار والنمو الاقتصادي.",
+    "descriptionEn": "We focus on developing essential infrastructure that supports stability and economic growth.",
+    "icon": "🛣️",
+    "ctaAr": "اعرف المزيد",
+    "ctaEn": "Learn more"
+  },
+  {
+    "id": "commercial-buildings",
+    "titleAr": "المباني التجارية",
+    "titleEn": "Commercial Buildings",
+    "subtitleAr": "تصميم وتنفيذ متكامل",
+    "subtitleEn": "Integrated design and delivery",
+    "descriptionAr": "نقدم حلولاً متكاملة للمشاريع التجارية التي تجمع بين التصميم المبتكر والإنجاز الموثوق.",
+    "descriptionEn": "We provide integrated solutions for commercial projects that combine innovative design with reliable delivery.",
+    "icon": "🏢",
+    "ctaAr": "اعرف المزيد",
+    "ctaEn": "Learn more"
+  },
+  {
+    "id": "industrial-facilities",
+    "titleAr": "المرافق الصناعية",
+    "titleEn": "Industrial Facilities",
+    "subtitleAr": "أداء تشغيلي عالي",
+    "subtitleEn": "High operational performance",
+    "descriptionAr": "نوفّر حلولاً عملية ومُحسّنة لرفع الكفاءة التشغيلية والاستدامة في المرافق الصناعية.",
+    "descriptionEn": "We provide practical solutions to enhance operational efficiency and sustainability in industrial facilities.",
+    "icon": "🏭",
+    "ctaAr": "اعرف المزيد",
+    "ctaEn": "Learn more"
+  }
+]

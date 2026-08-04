@@ -1,0 +1,72 @@
+{
+  "companyNameAr": "مجموعة أنس غيلان",
+  "companyNameEn": "Anas Ghilan Group",
+  "phone": "+967 770 000 000",
+  "email": "info@anasghilan.com",
+  "address": "صنعاء - الجمهورية اليمنية",
+  "website": "www.anasghilan.com",
+  "taglineAr": "شريك موثوق في المقاولات العامة والتوريدات والاستشارات الهندسية",
+  "taglineEn": "A trusted partner in general contracting, supplies, and engineering consultancy",
+  "descriptionAr": "مجموعة أنس غيلان هي شريك موثوق في تنفيذ المشاريع الحكومية والخاصة عبر خبرة متراكمة في المقاولات العامة، التوريدات، والمهام الهندسية المتكاملة.",
+  "descriptionEn": "Anas Ghilan Group is a trusted partner for public and private projects, backed by deep experience in general contracting, supplies, and integrated engineering services.",
+  "missionAr": "تنفيذ المشاريع بكفاءة عالية مع الالتزام بالجودة، الجدول الزمني، والسمعة المهنية، وبناء شراكات طويلة الأمد مع العملاء.",
+  "missionEn": "Deliver projects with high efficiency, uncompromising quality, disciplined timelines, and lasting client partnerships.",
+  "visionAr": "أن نكون من الشركات الرائدة في قطاع المقاولات والاستشارات الهندسية عبر حلول مبتكرة ومستدامة ترفع قيمة المشاريع.",
+  "visionEn": "To be a leading force in contracting and engineering consultancy through innovative, sustainable solutions that elevate project value.",
+  "ctaAr": "اطلب عرضًا سعرًا",
+  "ctaEn": "Request a quotation",
+  "ceoNameAr": "أنس غيلان",
+  "ceoNameEn": "Anas Ghilan",
+  "ceoMessageAr": "نؤمن أن الإنجاز الحقيقي لا يُقاس بالعمليات وحدها، بل بالثقة التي نبنيها مع العملاء والتميز الذي نضعه في كل مشروع.",
+  "ceoMessageEn": "We believe true achievement is not measured by operations alone, but by the trust we build with clients and the excellence we place in every project.",
+  "values": [
+    {
+      "titleAr": "الخبرة",
+      "titleEn": "Experience",
+      "textAr": "أكثر من عقدين من العمل في المقاولات والهندسة والتطوير.",
+      "textEn": "More than two decades of work in contracting, engineering, and development."
+    },
+    {
+      "titleAr": "الالتزام",
+      "titleEn": "Commitment",
+      "textAr": "نلتزم بالمعايير والجدول الزمني والميزانية بدقة عالية.",
+      "textEn": "We adhere to standards, schedules, and budgets with precision."
+    },
+    {
+      "titleAr": "الاستدامة",
+      "titleEn": "Sustainability",
+      "textAr": "نبني حلولاً تدعم النمو طويل الأمد وتضيف قيمة مستدامة للمشاريع.",
+      "textEn": "We build solutions that support long-term growth and add lasting value."
+    }
+  ],
+  "history": [
+    {
+      "year": "2010",
+      "titleAr": "البداية",
+      "titleEn": "The beginning",
+      "textAr": "تأسست المجموعة برؤية واضحة في تقديم حلول هندسية ومقاولاتية مميزة.",
+      "textEn": "The group was founded with a clear vision for delivering exceptional engineering and contracting solutions."
+    },
+    {
+      "year": "2016",
+      "titleAr": "التوسع",
+      "titleEn": "Expansion",
+      "textAr": "أصبحنا نموذجًا جديدًا في إدارة المشاريع وتنسيق الأعمال التنفيذية المتعددة.",
+      "textEn": "We became a new benchmark in managing complex projects and coordinated execution."
+    },
+    {
+      "year": "2022",
+      "titleAr": "الريادة",
+      "titleEn": "Leadership",
+      "textAr": "تمكنا من ترسيخ حضور قوي في السوق عبر مشاريع متنوعة وعمليات متطورة.",
+      "textEn": "We established a strong market presence across diverse and advanced operations."
+    },
+    {
+      "year": "2025",
+      "titleAr": "الطموح",
+      "titleEn": "Ambition",
+      "textAr": "نواصل بناء مستقبلٍ أكثر كفاءة وابتكارًا مع كل مشروع جديد.",
+      "textEn": "We continue building a more efficient and innovative future with each new project."
+    }
+  ]
+}

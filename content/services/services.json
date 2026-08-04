@@ -1,0 +1,34 @@
+[
+  {
+    "id": "general-contracting",
+    "titleAr": "المقاولات العامة",
+    "titleEn": "General Contracting",
+    "descriptionAr": "تنفيذ مشاريع مدنية وتجارية وحكومية وفق أعلى معايير الجودة والاحتراف.",
+    "descriptionEn": "Execution of civil, commercial, and public projects in line with the highest standards of quality and professionalism.",
+    "icon": "🏗️"
+  },
+  {
+    "id": "engineering-consultancy",
+    "titleAr": "الاستشارات الهندسية",
+    "titleEn": "Engineering Consultancy",
+    "descriptionAr": "تقديم الدراسات والتصاميم والإشراف الهندسي لضمان أداء موثوق وفعّال.",
+    "descriptionEn": "Delivery of engineering studies, designs, and supervision to ensure reliable and efficient performance.",
+    "icon": "🧭"
+  },
+  {
+    "id": "supplies-and-logistics",
+    "titleAr": "التوريدات والخدمات اللوجستية",
+    "titleEn": "Supplies and Logistics",
+    "descriptionAr": "تأمين المواد والمعدات الأساسية بكفاءة عالية وتنسيق لوجستي دقيق.",
+    "descriptionEn": "Provision of core materials and equipment with high efficiency and precise coordination.",
+    "icon": "🚚"
+  },
+  {
+    "id": "project-management",
+    "titleAr": "إدارة المشاريع",
+    "titleEn": "Project Management",
+    "descriptionAr": "تنسيق أعمال التنفيذ والتخطيط والرقابة لتحقيق إنجازات دقيقة في الوقت المحدد.",
+    "descriptionEn": "Coordinating execution, planning, and control to deliver precise milestones on schedule.",
+    "icon": "📋"
+  }
+]
